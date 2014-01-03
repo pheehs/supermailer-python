@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: PHPSESSID=so26qoe6hm0rvkced71lboqp24; path="/"; domain="supermailer.jp"; path_spec; discard; version=0
